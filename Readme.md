@@ -24,4 +24,4 @@ open two terminal and navigate to each folder i;e backend and frontend
 - in terminal where you have navigatedd to frontend folder run "npm start" // available at http://localhost:3000/
 
 Application Workflow
-On launch, the app fetches tasks, users, and stats from the backend. Users can create tasks via the form, and update or delete them from the task list. Filtering is available based on task status. Stats and progress are updated automatically as tasks change.
+On launch, the app fetches tasks, users, and stats from the backend (from tasks.json file inside data folder). Users can create tasks via the form, and update or delete them from the task list. Filtering is available based on task status. Stats and progress are updated automatically as tasks change.
