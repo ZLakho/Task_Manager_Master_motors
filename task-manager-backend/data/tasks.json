@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1748691828556,
+    "title": "update ui",
+    "description": "update ui of foodpanda",
+    "status": "Completed",
+    "priority": "Medium",
+    "assignedTo": "Javeria_Altaf",
+    "dueDate": "2025-06-05",
+    "createdAt": "2025-05-31"
+  },
+  {
+    "id": 1748717010925,
+    "title": "bux fixing",
+    "description": "you have to fix bug of uae project",
+    "status": "Completed",
+    "priority": "High",
+    "assignedTo": "Muhammad_Huzaifa",
+    "dueDate": "2025-06-04",
+    "createdAt": "2025-05-31"
+  },
+  {
+    "id": 1748717063228,
+    "title": "Figma of Bykea V4",
+    "description": "create a figma of new bikea version 4",
+    "status": "In Progress",
+    "priority": "Low",
+    "assignedTo": "Tasbiha_Malik",
+    "dueDate": "2025-06-07",
+    "createdAt": "2025-05-31"
+  },
+  {
+    "id": 1748717111608,
+    "title": "Task manager",
+    "description": "create a template with basic functionality of Taks manager web based application using react.js and firebase.",
+    "status": "To Do",
+    "priority": "High",
+    "assignedTo": "Javeria_Altaf",
+    "dueDate": "2025-05-31",
+    "createdAt": "2025-05-31"
+  }
+]
